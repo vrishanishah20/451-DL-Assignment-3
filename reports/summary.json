@@ -1,0 +1,32 @@
+[
+  {
+    "Mode":"momentum",
+    "Universe":[
+      "SPY",
+      "QQQ",
+      "IWM",
+      "EFA",
+      "EEM",
+      "TLT",
+      "LQD"
+    ],
+    "Total":{
+      "CAGR":0.0928,
+      "Sharpe":0.5585,
+      "MaxDD":-0.5023,
+      "AnnVol":0.1922
+    },
+    "InSample":{
+      "CAGR":0.1487,
+      "Sharpe":0.9515,
+      "MaxDD":-0.3337,
+      "AnnVol":0.1591
+    },
+    "OutOfSample":{
+      "CAGR":0.0134,
+      "Sharpe":0.1775,
+      "MaxDD":-0.495,
+      "AnnVol":0.259
+    }
+  }
+]

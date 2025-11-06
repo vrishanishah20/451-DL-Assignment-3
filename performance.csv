@@ -1,0 +1,4 @@
+Period,CAGR,Sharpe,MaxDrawdown,AnnualizedVolatility
+In-Sample (2015–2021),0.1487,0.9515,-0.3337,0.1591
+Out-of-Sample (2022–2025),0.0134,0.1775,-0.495,0.259
+Full Period,0.0928,0.5585,-0.5023,0.1922
